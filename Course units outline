@@ -1,8 +1,5 @@
-#include<iostream>
-using namespace std;
-/*
-name:Simon
-*/
+#include<stdio.h>
+
 int main()
 {
     printf("UNITS FOR THIS SEMESTER\n");//course outline for this semester 
@@ -14,5 +11,5 @@ int main()
     printf("mathematics for science\n");
     printf("physics\n");
     printf("introduction to programming");
-
+    
 }
