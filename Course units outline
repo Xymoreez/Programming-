@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+/*
+name:Simon
+*/
+int main()
+{
+    printf("UNITS FOR THIS SEMESTER\n");//course outline for this semester 
+    printf("fundamentals of ICT\n");
+    printf("introduction to computer architecture\n");
+    printf("communication skills\n");
+    printf("analogue electronics\n");
+    printf("discrete mathematics\n");
+    printf("mathematics for science\n");
+    printf("physics\n");
+    printf("introduction to programming");
+
+}
