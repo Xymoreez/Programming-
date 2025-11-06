@@ -1,6 +1,8 @@
-/*Name:Simon Rukungu Njiiri 
-Adm:CT101/G/26500/25
-
+/*
+Name:Simon Rukungu Njiiri 
+Reg no:CT101/G/26500/25
+Description:While loop
+/*
 #include <stdio.h>
 
 int main() {
