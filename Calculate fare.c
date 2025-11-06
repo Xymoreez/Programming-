@@ -1,4 +1,4 @@
-*/
+/*
 Name;Simon Rukungu Njiiri 
 Reg:CT101/G/26500/25
 Description;calculatefare
